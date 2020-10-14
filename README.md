@@ -1,5 +1,4 @@
-# Romman_Portfolio
-Data Science Portfolio
+
 
 # [Project 1: Does age matter in Powerlifting?](https://github.com/Rommanahad/Powerlifting_)
 * Cleaned data from excel utilising pandas
