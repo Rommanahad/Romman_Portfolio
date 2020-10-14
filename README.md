@@ -5,4 +5,4 @@ Data Science Portfolio
 * Cleaned data from excel utilising pandas
 * Used a Lasso Regression to produce a graph which indicates which feature is the most significant
 
-![](https://github.com/Rommanahad/Romman_Portfolio/blob/main/Images/Powerlifting_lasso_regression.png)
+![](/Images/Powerlifting_lasso_regression.png)
