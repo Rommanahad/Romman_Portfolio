@@ -10,4 +10,4 @@
 ![](/Images/histogram.png)
 ![](/Images/corr.png)
 ![](/Images/homo.png)
-![](/Images/qq plot.png)
+![](/Images/qqplot.png)
