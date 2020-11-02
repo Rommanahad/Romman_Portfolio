@@ -7,7 +7,8 @@
 * Analysed the data, removed unwanted variable and outliers
 * Checked for heterosecdasticity and autocorrelation
 
-![](/Images/histogram.png=250x250) 
-![](/Images/corr.png=250x250)
-![](/Images/homo.png=250x250)
-![](/Images/qqplot.png)
+# [Histogram]
+![](/Images/histogram.png) 
+# [Correlation matrix]
+![](/Images/corr.png)
+
