@@ -7,8 +7,8 @@
 * Analysed the data, removed unwanted variable and outliers
 * Checked for heterosecdasticity and autocorrelation
 
-# [Histogram]
+# Histogram
 ![](/Images/histogram.png) 
-# [Correlation matrix]
+# Correlation matrix
 ![](/Images/corr.png)
 
